@@ -22,7 +22,8 @@ Explore the following functionalities:
 
 ## 📷 Screenshot
 
-![Amazon Clone Screenshot](path/to/screenshot.png)
+![Amazon Clone](https://github.com/HimanshuMohanty-Git24/Amazon-Clone/assets/94133298/19a719f2-f365-479e-a744-d889a8cbe046)
+
 
 ## 🛠️ Setup
 
